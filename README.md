@@ -7,7 +7,7 @@
 
 **可进后台演示站**:console1.hicloud.l.cd(请勿在此网站后台填入敏感信息) 用户名:admin 密码:123456
 
-
+<img width="1916" height="1079" alt="1" src="https://github.com/MSLserver/HiCloud-IDC-PHP/blob/main/1.png" />
 
 
 
